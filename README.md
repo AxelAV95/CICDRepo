@@ -30,7 +30,7 @@
 
 ---
 
-**CICDRepo** es tu compañero ideal para dominar el mundo del CI/CD. ¡Explora, aprende y contribuye! 🚀
+**CICDRepo** es tu compañero ideal para dominar el mundo del CI/CD. ¡Explora, y aprende! 🚀
 
 ---
 
